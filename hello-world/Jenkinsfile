@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Compile') {
             steps {
-                echo 'M]\ewejfeiuwfifbw' 
+                echo 'M]ewejfeiuwfifbw' 
             }
         }
         stage('Security Check') {
