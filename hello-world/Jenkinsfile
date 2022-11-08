@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Compile') {
             steps {
-                echo 'Modeeeeeeeeeeeeeeeeeeeeeeeeeeewejfeiuwfifbw' 
+                echo 'M]\ewejfeiuwfifbw' 
             }
         }
         stage('Security Check') {
